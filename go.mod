@@ -22,7 +22,7 @@ require (
 	github.com/stretchr/testify v1.3.0
 	github.com/xenolf/lego v2.2.0+incompatible // indirect
 	github.com/zenazn/goji v0.9.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.0.0-20190422195254-d864b10871cd
 	golang.org/x/net v0.0.0-20190310074541-c10a0554eabf // indirect
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421
 	golang.org/x/sync v0.0.0-20190227155943-e225da77a7e6 // indirect
